@@ -1,0 +1,2 @@
+运用springMVC实现一个功能
+页面使用的thymeleaf（springboot官方推荐使用）
